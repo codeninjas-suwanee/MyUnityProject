@@ -1,0 +1,15 @@
+# Unity generated files
+[Bb]in/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+
+# User-specific files
+.idea/
+.vs/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
